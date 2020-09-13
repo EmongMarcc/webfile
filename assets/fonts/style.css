@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'EurostileBold';
+   font-display: swap;
+   src: url('EurostileBold/font.ttf');
+}
+@font-face {
+   font-family: 'EuroStyle Normal';
+   font-display: swap;
+   src: url('EuroStyle Normal/font.ttf');
+}

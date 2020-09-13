@@ -1,0 +1,62 @@
+.eapps-widget-toolbar{
+  display:none !important;
+}
+.mj-menu-border{
+  border-radius: 63px 0px 86px 0px;
+    -webkit-border-radius: 63px 0px 86px 0px;
+    -moz-border-radius: 63px 0px 86px 0px;
+    border: 2px outset #ce0e2d;
+    box-shadow: 2px 1px 5px 0px rgba(229,229,229,0.75);
+    -webkit-box-shadow: 2px 1px 5px 0px rgba(229,229,229,0.75);
+    -moz-box-shadow: 2px 1px 5px 0px rgba(229,229,229,0.75);
+    background: rgba(255,255,255,0.2);
+}
+.cid-sa5UMeDYsw .timeline-text-content{
+  background: rgb(0,0,0);
+background: -moz-linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(110,35,35,1) 61%, rgba(206,14,45,1) 100%);
+background: -webkit-linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(110,35,35,1) 61%, rgba(206,14,45,1) 100%);
+background: linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(110,35,35,1) 61%, rgba(206,14,45,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#ce0e2d",GradientType=1);
+border-radius: 54px 0px 55px 0px;
+-webkit-border-radius: 54px 0px 55px 0px;
+-moz-border-radius: 54px 0px 55px 0px;
+box-shadow: 0px 0px 5px 0px rgba(239,239,239,0.76);
+-webkit-box-shadow: 0px 0px 5px 0px rgba(239,239,239,0.76);
+-moz-box-shadow: 0px 0px 5px 0px rgba(239,239,239,0.76);
+}
+.cid-sa5UMeDYsw .mbr-iconfont{
+  color:#eee;
+}
+.cid-sa5UMeDYsw .iconsBackground, .cid-sa5UMeDYsw .separline:before, .mbr-arrow{
+  background: rgb(0,0,0);
+background: -moz-linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(110,35,35,1) 61%, rgba(206,14,45,1) 100%);
+background: -webkit-linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(110,35,35,1) 61%, rgba(206,14,45,1) 100%);
+background: linear-gradient(54deg, rgba(0,0,0,1) 0%, rgba(110,35,35,1) 61%, rgba(206,14,45,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#ce0e2d",GradientType=1);
+box-shadow: 0px 0px 5px 0px rgba(239,239,239,0.76);
+-webkit-box-shadow: 0px 0px 5px 0px rgba(239,239,239,0.76);
+-moz-box-shadow: 0px 0px 5px 0px rgba(239,239,239,0.76);
+}
+.cid-sa5DcBqiMx .mbr-gallery-item,.cid-qx5qFCU1Ss .mbr-gallery-item{
+  filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-webkit-transition: all 500ms ease-in-out;
+-moz-transition: all 500ms ease-in-out;
+-ms-transition: all 500ms ease-in-out;
+-o-transition: all 500ms ease-in-out;
+transition: all 500ms ease-in-out;
+}
+.mbr-gallery-item:hover, .cid-qx5qFCU1Ss .mbr-gallery-item:hover{
+  filter: grayscale(0%)!important;
+-webkit-filter: grayscale(0%)!important;
+-moz-filter: grayscale(0%)!important;
+transform: translateY(-5px);
+-webkit-transform: translateY(-5px);
+-moz-transform: translateY(-5px);
+-webkit-transition: all 500ms ease-in-out;
+-moz-transition: all 500ms ease-in-out;
+-ms-transition: all 500ms ease-in-out;
+-o-transition: all 500ms ease-in-out;
+transition: all 500ms ease-in-out;
+}
