@@ -881,7 +881,11 @@ section.lazy-placeholder:after {
 .cid-sa5Nw89u13 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #000000;
+  background: rgb(206,14,45);
+  background: -moz-linear-gradient(135deg, rgba(206,14,45,1) 14%, rgba(15,15,15,1) 14%, rgba(15,15,15,1) 86%, rgba(204,204,204,1) 86%);
+  background: -webkit-linear-gradient(135deg, rgba(206,14,45,1) 14%, rgba(15,15,15,1) 14%, rgba(15,15,15,1) 86%, rgba(204,204,204,1) 86%);
+  background: linear-gradient(135deg, rgba(206,14,45,1) 14%, rgba(15,15,15,1) 14%, rgba(15,15,15,1) 86%, rgba(204,204,204,1) 86%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ce0e2d",endColorstr="#cccccc",GradientType=1);
 }
 .cid-sa5Nw89u13 .carousel-control {
   background: #000;
@@ -1096,7 +1100,11 @@ section.lazy-placeholder:after {
 .cid-sa5Xhuz8XJ .card-box {
   height: 100%;
   padding: 2rem;
-  background: #0f0f0f;
+  background: rgb(206,14,45);
+  background: -moz-linear-gradient(135deg, rgba(206,14,45,1) 14%, rgba(15,15,15,1) 14%, rgba(15,15,15,1) 86%, rgba(204,204,204,1) 86%);
+  background: -webkit-linear-gradient(135deg, rgba(206,14,45,1) 14%, rgba(15,15,15,1) 14%, rgba(15,15,15,1) 86%, rgba(204,204,204,1) 86%);
+  background: linear-gradient(135deg, rgba(206,14,45,1) 14%, rgba(15,15,15,1) 14%, rgba(15,15,15,1) 86%, rgba(204,204,204,1) 86%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ce0e2d",endColorstr="#cccccc",GradientType=1);
 }
 .cid-sa5Xhuz8XJ h4 {
   font-weight: 500;
