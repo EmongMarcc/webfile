@@ -1,4 +1,4 @@
-
+   AOS.init();
    setTimeout(function(){
      $(".eapp-whatsapp-chat-root-layout-component a").remove();
      $(".eapps-widget-toolbar-panel-wrapper").remove();
